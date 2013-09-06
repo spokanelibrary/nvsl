@@ -30,7 +30,6 @@ What is this and how do I use it?
 * You can search fullnonmarcbib for -sg to see all of the spl modifications.
 There aren't that many.
 
-=======
 
 Notes 
 -------------------------
@@ -45,4 +44,3 @@ and then relies on the copy loaded by NoveList (if no $ detected).
 Let me know if you decide to implement these customizations.
 I won't hold it against you if you don't; you will just have to live with yourself.
 
-=======
